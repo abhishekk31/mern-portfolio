@@ -84,18 +84,6 @@ const projects = [
     ], live: "https://ai-data-analyzer-frontend.vercel.app/"
   },
   {
-    title: "Speech To Text Platform", desc: "Realtime speech-to-text web application developed using the MERN stack with secure JWT authentication, live voice recognition, transcript management, and responsive dashboard design. The platform enables users to convert speech into text instantly, manage saved transcripts, and experience smooth real-time interactions through modern frontend and backend integration.", tags: ["React.js",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "JWT Authentication",
-      "Speech Recognition API",
-      "Tailwind CSS",
-      "REST API",
-      "Realtime Processing",
-      "MERN Stack",], live: "https://speech-text-neon.vercel.app/"
-  },
-  {
     title: "Flowra API Billing System", desc: "Enterprise-grade MERN stack platform designed for managing providers, consumers, API subscriptions, billing workflows, and payment operations through a centralized admin dashboard. The system includes secure JWT authentication, provider onboarding, consumer management, API usage monitoring, Razorpay payment integration, subscription handling, analytics dashboards, and scalable backend architecture for modern SaaS and API-based businesses. Built with production-focused architecture to efficiently manage multi-user operations, billing automation, and real-time administrative controls.",
     tags: ["React.js",
       "Node.js",
@@ -110,7 +98,19 @@ const projects = [
       "Tailwind CSS",
       "API Billing",
       "SaaS Platform",
-      "MERN Stack",], live: "https://your-live-project-3.vercel.app"
+      "MERN Stack",], live: "https://flowra-api-billing-system.vercel.app/"
+  },
+  {
+    title: "Speech To Text Platform (NovaVoice AI)", desc: "Realtime speech-to-text web application developed using the MERN stack with secure JWT authentication, live voice recognition, transcript management, and responsive dashboard design. The platform enables users to convert speech into text instantly, manage saved transcripts, and experience smooth real-time interactions through modern frontend and backend integration.", tags: ["React.js",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JWT Authentication",
+      "Speech Recognition API",
+      "Tailwind CSS",
+      "REST API",
+      "Realtime Processing",
+      "MERN Stack",], live: "https://speech-text-neon.vercel.app/"
   }
 
 ];
